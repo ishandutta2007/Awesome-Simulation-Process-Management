@@ -53,7 +53,7 @@ Full enterprise SPDM platforms with deep CAD/CAE/PLM integration are predominant
 
 The following repositories are sorted in **descending order by GitHub star count**:
 
-| Repository | GitHub Stars Badge | Description | Category |
+| Repository | GitHub_Stars Badge | Description | Category |
 | :--- | :--- | :--- | :--- |
 | ⚙️ **[Argo Workflows](https://github.com/argoproj/argo-workflows)** | [<img src="https://img.shields.io/github/stars/argoproj/argo-workflows?style=social&color=white" alt="Argo Workflows stars"/>](https://github.com/argoproj/argo-workflows/stargazers) | Container-native workflow engine for orchestrating parallel simulation and data processing jobs on Kubernetes. | Workflow Orchestration |
 | 💻 **[Slurm Workload Manager](https://github.com/SchedMD/slurm)** | [<img src="https://img.shields.io/github/stars/SchedMD/slurm?style=social&color=white" alt="Slurm stars"/>](https://github.com/SchedMD/slurm/stargazers) | Open-source fault-tolerant cluster management and HPC job scheduling system for large-scale engineering simulations. | HPC Job Scheduler |
