@@ -42,53 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Rescale](https://rescale.com/)**  
-
-  Leading cloud HPC and simulation platform that provides intelligent job orchestration, multi-solver support, and scalable infrastructure for CAE workloads.
-
-
-
-- **[SimScale](https://www.simscale.com/)**  
-
-  Browser-based CAE platform offering CFD, FEA, and thermal simulation with collaboration features; enterprise offerings add advanced process and data management.
-
-
-
-- **[Ansys Minerva](https://www.ansys.com/products/platform/ansys-minerva)**  
-
-  Enterprise Simulation Process and Data Management solution (built on Aras technology) for securing simulation data, managing workflows, and integrating with CAD/CAE/PLM tools.
-
-
-
-- **[Altair One](https://www.altair.com/altair-one)**  
-
-  Cloud platform from Altair that unifies access to simulation, HPC, and data analytics tools with process and collaboration capabilities.
-
-
-
-- **[HEEDS](https://www.siemens.com/)**  
-
-  Design space exploration and optimization software (now part of Siemens) widely used for automated simulation-driven design studies and process automation.
-
-
-
-- **[modeFRONTIER (EnginSoft)](https://www.enginsoft.com/software/modefrontier/)**  
-
-  Process integration and design optimization platform that connects multiple CAE tools into automated, multi-disciplinary workflows.
-
-
-
-- **[Nimbix, UberCloud, TotalCAE](https://www.nimbix.net/)**  
-
-  Cloud HPC and simulation service providers that offer managed infrastructure, application catalogs, and workload management for engineering simulations.
-
-
-
-- **[Other SPDM & simulation platforms](https://rescale.com/)**  
-
-  Additional commercial solutions from major PLM/CAE vendors (Siemens, Dassault, Hexagon, etc.) that provide simulation data management and process automation.
+| Platform | Description | Pricing | Free Tier / Trial Limit |
+| :--- | :--- | :--- | :--- |
+| **[Rescale](https://rescale.com/)** | Leading cloud HPC and simulation platform that provides intelligent job orchestration, multi-solver support, and scalable infrastructure for CAE workloads. | Starts at $0.05/core-hour on-demand (or $99/month for License Hosting instance) | 5-day free trial with $10–$20 in free compute trial credits |
+| **[SimScale](https://www.simscale.com/)** | Browser-based CAE platform offering CFD, FEA, and thermal simulation with collaboration features; enterprise offerings add advanced process and data management. | Starts at $1,500/year (~$125/month) for paid Professional tiers | **Community Plan**: Free forever with 3,000 core-hours/year and 10 active simulations (public projects); 14-day free trial with 500 core-hours |
+| **[Ansys Minerva](https://www.ansys.com/products/platform/ansys-minerva)** | Enterprise Simulation Process and Data Management solution (built on Aras technology) for securing simulation data, managing workflows, and integrating with CAD/CAE/PLM tools. | Enterprise license starts at $5,000/year per user seat (or Ansys Elastic Units at $2.00/AEU) | 30-day evaluation trial with 1,000 Ansys Elastic Units (AEUs) upon partner request |
+| **[Altair One](https://www.altair.com/altair-one)** | Cloud platform from Altair that unifies access to simulation, HPC, and data analytics tools with process and collaboration capabilities. | Altair Units licensing starts at $50/unit per year (starter pool from $1,500/year) | 30-day free trial on Altair One Marketplace with 50 Altair Units credit; Free Student Edition available |
+| **[HEEDS](https://www.siemens.com/)** | Design space exploration and optimization software (now part of Siemens) widely used for automated simulation-driven design studies and process automation. | Commercial subscription starts at $10,000/year per user seat (~$1,200/month) | 30-day evaluation trial license with full solver integration upon request via Siemens partners |
+| **[modeFRONTIER (EnginSoft)](https://www.enginsoft.com/software/modefrontier/)** | Process integration and design optimization platform that connects multiple CAE tools into automated, multi-disciplinary workflows. | Commercial license starts at $3,000/year per user seat (~$350/month) | 30-day free trial evaluation license with up to 100 workflow evaluation runs |
+| **[Nimbix](https://www.nimbix.net/)** | Cloud HPC platform providing high-performance compute infrastructure, application catalogs, and workload management for engineering simulations. | Compute starts at $0.05/core-hour for CPU instances ($1.50/GPU-hour) | Developer free trial with 20 compute core-hours ($25 trial credit) upon account activation |
+| **[UberCloud](https://simr.com/)** | Cloud HPC service provider and container platform offering managed infrastructure, application catalogs, and workload management for engineering simulations. | Starter tier starts at $2,500/year per user seat ($1.00/hour for HPC desktop instances) | 14-day free trial with up to 50 core-hours of containerized HPC simulation testing |
+| **[TotalCAE](https://www.totalcae.com/)** | Managed HPC cloud and on-premises simulation platform providing automated web portals and job management for CAE workflows. | Managed service starts at $1,000/month (or BYOC cloud compute at $0.10/core-hour) | 30-day evaluation demo trial with 100 free core-hours of managed cloud simulation |
+| **[Other SPDM & simulation platforms](https://rescale.com/)** | Additional commercial solutions from major PLM/CAE vendors (Dassault 3DEXPERIENCE, Hexagon SimManager) providing simulation data management and process automation. | Commercial SPDM licenses start at $3,000–$4,500/year per user seat | 14 to 30-day sandbox evaluation trial with cloud tenant access upon vendor request |
 
 
 
