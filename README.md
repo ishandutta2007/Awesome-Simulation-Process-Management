@@ -1,6 +1,6 @@
 # 🚀 Awesome Simulation Process Management (SPDM)
 
-<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Simulation-Process-Management?style=flat-square)](https://github.com/ishandutta2007/Awesome-Simulation-Process-Management/stargazers) [![Forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Simulation-Process-Management?style=flat-square)](https://github.com/ishandutta2007/Awesome-Simulation-Process-Management/network/members) [![License](https://img.shields.io/github/license/ishandutta2007/Awesome-Simulation-Process-Management?style=flat-square)](https://github.com/ishandutta2007/Awesome-Simulation-Process-Management/blob/main/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Simulation-Process-Management/pulls) [![GitHub followers](https://img.shields.io/github/followers/ishandutta2007?label=Follow)](https://github.com/ishandutta2007)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Simulation-Process-Management?style=flat-square)](https://github.com/ishandutta2007/Awesome-Simulation-Process-Management/stargazers) [![Forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Simulation-Process-Management?style=flat-square)](https://github.com/ishandutta2007/Awesome-Simulation-Process-Management/network/members) [![License](https://img.shields.io/github/license/ishandutta2007/Awesome-Simulation-Process-Management?style=flat-square)](https://github.com/ishandutta2007/Awesome-Simulation-Process-Management/blob/main/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Simulation-Process-Management/pulls) <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 ![Awesome Simulation Process Management Banner](assets/banner.svg)
 
@@ -23,6 +23,7 @@ This repository tracks the leading commercial **SaaS platforms** and high-impact
 - [💡 How to Contribute](#-how-to-contribute)
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 - [📈 Star History](#-star-history)
+- [💖 Support](#-support)
 
 ---
 
@@ -92,7 +93,18 @@ Explore more curated awesome lists at [Awesome-Awesome-Awesome](https://github.c
 
 ## 📈 Star History
 
-[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Simulation-Process-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Simulation-Process-Management&type=date&legend=top-left)
+##  Star History
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Simulation-Process-Management&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Simulation-Process-Management&type=date&legend=top-left)
+
+---
+
+## 💖 Support
+
+Thank you for visiting and using this project! If you found this repository helpful, please consider showing your support:
+- ⭐ **Star** this repository on GitHub.
+- 🍴 **Fork** and contribute your own findings or improvements.
+- 📢 **Share** it with your fellow engineers, colleagues, and community!
+- ☕ **Buy me a coffee**: You can support ongoing maintenance via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
 
 ---
 
