@@ -52,9 +52,9 @@ The following SaaS platforms are sorted in **descending order by company size** 
 
 Full enterprise SPDM platforms with deep CAD/CAE/PLM integration are predominantly commercial. However, open-source projects excel in solvers, container-native workflow engines, HPC job schedulers, and emerging open SPDM standards.
 
-The following repositories are sorted in **descending order by GitHub star count**:
+The following repositories are sorted in **descending order by GitHub Stars_Count**:
 
-| Repository | GitHub_Stars Badge | Description | Category |
+| Repository | GitHub_Stars_Badge | Description | Category |
 | :--- | :--- | :--- | :--- |
 | ⚙️ **[Argo Workflows](https://github.com/argoproj/argo-workflows)** | [<img src="https://img.shields.io/github/stars/argoproj/argo-workflows?style=social&color=white" alt="Argo Workflows stars"/>](https://github.com/argoproj/argo-workflows/stargazers) | Container-native workflow engine for orchestrating parallel simulation and data processing jobs on Kubernetes. | Workflow Orchestration |
 | 💻 **[Slurm Workload Manager](https://github.com/SchedMD/slurm)** | [<img src="https://img.shields.io/github/stars/SchedMD/slurm?style=social&color=white" alt="Slurm stars"/>](https://github.com/SchedMD/slurm/stargazers) | Open-source fault-tolerant cluster management and HPC job scheduling system for large-scale engineering simulations. | HPC Job Scheduler |
@@ -76,7 +76,7 @@ Contributions are welcome! Please follow these simple steps:
 
 1. 🍴 **Fork** this repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining the table format and accurate details.
-3. 🔗 **Include**: Name, official link, description, pricing, trial limits, and star counts/company size where appropriate.
+3. 🔗 **Include**: Name, official link, description, pricing, trial limits, and Stars_Counts/company size where appropriate.
 4. 📬 **Submit a Pull Request** with a clear explanation of your additions.
 
 Explore more curated awesome lists at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)! ⭐
@@ -110,3 +110,12 @@ Thank you for visiting and using this project! If you found this repository help
 
 **Made for CAE Engineers, Simulation Managers, HPC Administrators, and Digital Engineering Teams.**  
 *Advancing open, reproducible, and well-managed simulation processes alongside enterprise commercial platforms.*
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Simulation-Process-Management&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Simulation-Process-Management_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Simulation-Process-Management_growth.svg">
+  </picture>
+</a>
